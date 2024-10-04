@@ -8,7 +8,7 @@ The dataset contains customer behavior data retrieved from both the mobile app a
 This model can help the store to get better understanding about their customer's spending patterns and then create online marketing strategies and choosing which platform to enhance to increase customer engagement and sales.
 
 # Dataset
-This dataset is retrieved from (Kaggle: Linear Regression E-commerce Dataset)[https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-website]. 
+This dataset is retrieved from [Kaggle: Linear Regression E-commerce Dataset](https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-website)
 
 # Model Architecture
 I tested three models to solve this problem:
